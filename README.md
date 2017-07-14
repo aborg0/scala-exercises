@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/aborg0/scala-exercises.svg?branch=noSolution)](https://travis-ci.org/aborg0/scala-exercises)
 
-This repository contains some exercises to help getting familiar with various contexts in the context of Scala.
+This repository contains some exercises to help getting familiar with various topics in the context of Scala.
 
 ## Topics covered
 
